@@ -2,6 +2,7 @@
 這是一個使用 Node.js + Express 打造的餐廳美食網站，若您對某間餐廳感興趣，可點擊餐廳小卡查看更詳細的資訊，或可依 "餐廳名稱、分類、評分" 等關鍵字搜尋出我們為您提供的餐廳名單，若您搜尋的關鍵字沒有相對應的餐廳，可以參考看看我們幫您分類的餐廳名單。
 
 ## 專案畫面
+
 ![This is an image](https://github.com/Playpaper/restaurant_list/blob/main/public/img/index.png)
 ![This is an image](https://github.com/Playpaper/restaurant_list/blob/main/public/img/description.png)
 ![This is an image](https://github.com/Playpaper/restaurant_list/blob/main/public/img/notFind.png)
