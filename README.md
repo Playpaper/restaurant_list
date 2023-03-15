@@ -5,7 +5,7 @@
 
 ![This is an image](https://github.com/Playpaper/restaurant_list/blob/main/public/img/index.png)
 ![This is an image](https://github.com/Playpaper/restaurant_list/blob/main/public/img/description.png)
-![This is an image](https://github.com/Playpaper/restaurant_list/blob/main/public/img/notFind.png)
+![This is an image](https://github.com/Playpaper/restaurant_list/blob/main/public/img/notFound.png)
 
 ## Features - 產品功能
 1. 使用者可以瀏覽所有的餐廳。
